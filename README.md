@@ -11,7 +11,7 @@
 ## Contact Information
 
 - **Email:** rizka.frila09@gmail.com
-- **Phone:** +62 895-3910-36465
+- **Phone:** 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ## Education
@@ -55,9 +55,8 @@
 
 ## Hobbies
 
-- Reading
-- Hiking
-- Playing Guitar
+- sleeping
+- eating
 
 ---
 
